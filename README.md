@@ -36,12 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-
-![Snake animation](https://github.com/coar14/coar14/blob/output/github-contribution-grid-snake.svg)
-
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coar14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
