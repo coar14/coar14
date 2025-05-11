@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/coar14/coar14/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/coar14/coar14/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
