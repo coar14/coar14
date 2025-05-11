@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, everyone calls me Cor and I'm an IT student from Cebu City. Throughout my studies, I've learned the fundamentals of both mobile and web application development. I'm passionate about building real-world tech solutions and always eager to grow as a developer.</p>
+<p align="left">Hi, my name is Cor and I'm an IT student from Cebu City. Throughout my studies, I've learned the fundamentals of both mobile and web application development. I'm passionate about building real-world tech solutions and always eager to grow as a developer.</p>
 
 ###
 
@@ -36,6 +36,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+###
+
+<h3 align="left">I also do</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/coar14/coar14/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coar14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
