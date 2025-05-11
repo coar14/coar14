@@ -40,6 +40,7 @@
 
 ![Snake animation](https://github.com/coar14/coar14/blob/output/github-contribution-grid-snake.svg)
 
+
 ###
 
 <div align="center">
