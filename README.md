@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Cor and I'm an IT student from Cebu City. Throughout my studies, I've learned the fundamentals of both mobile and web application development. I'm passionate about building real-world tech solutions and always eager to grow as a developer.</p>
+<p align="left">Hi, everyone calls me Cor and I'm an IT student from Cebu City. Throughout my studies, I've learned the fundamentals of both mobile and web application development. I'm passionate about building real-world tech solutions and always eager to grow as a developer.</p>
 
 ###
 
