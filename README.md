@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Hi, you can call me Cor and I'm an IT student from Cebu City. Throughout my studies, I've learned the fundamentals of both mobile and web application development. I'm passionate about building real-world tech solutions and always eager to grow as a developer.</p>
+<p align="left">
+Hi, you can call me Cor and I'm an IT student from Cebu City. Throughout my studies, I've learned the fundamentals of both mobile and web application development. I'm passionate about building real-world tech solutions and always eager to grow as a developer. I also value the importance of quality assurance and have developed an understanding of the Software Testing Life Cycle (STLC), including stages like test planning, test case design, and defect reporting. Being involved in the STLC allows me to ensure that my applications are reliable, user-friendly, and meet the required standards before deployment.
+</p>
+
 
 ###
 
