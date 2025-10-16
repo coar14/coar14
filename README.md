@@ -13,8 +13,8 @@ Hi, you can call me Cor and I'm an IT professional from Cebu City. Throughout my
 
 ###
 
-<p align="left">🎓 BSIT Graduate Major in Web & Mobile App Development<br>🛠️ Skilled in Java, .NET, C, Laravel, Angular, Vue, Typescript, and Flutter/Dart.
-<br>📱 Built KinetiCare – a mobile app for post-surgery patient care<br>🤝 Active school volunteer alongside studies<br>🌱 Passionate about creating meaningful, real-world tech solutions<br>💡 Always learning, adaptable, and eager to grow as a developer</p>
+<p align="left">🎓 BS-Information Technology Graduate Major in Website & Mobile App Development<br>🛠️ Skilled in Java, .NET, C, Laravel, Angular, Vue, Typescript, and Flutter/Dart.
+<br>📱 Built KinetiCare – a mobile app for post-surgery patient care<br>🤝 A working student alongside studies for 3 years <br>🌱 Passionate about creating meaningful, real-world tech solutions<br>💡 Always learning, adaptable, and eager to grow as a developer</p>
 
 ###
 
